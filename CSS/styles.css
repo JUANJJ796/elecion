@@ -1,0 +1,12 @@
+body {
+  background: #eafaf1;
+}
+.card {
+  border-radius: 1rem;
+}
+h1 {
+  letter-spacing: 2px;
+}
+input, select {
+  border-radius: 0.5rem !important;
+} 
